@@ -1,0 +1,7 @@
+.bir {
+    margin-top: 25px;
+}
+
+img +p {
+    color:silver
+}
